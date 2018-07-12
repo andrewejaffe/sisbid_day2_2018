@@ -1,2 +1,2 @@
 # sisbid_day2_2018
-sisbid
+This will help get up and running with GitHub
